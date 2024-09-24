@@ -385,6 +385,11 @@
     "@types/prop-types" "*"
     csstype "^3.0.2"
 
+"@types/scroll-lock@^2.1.3":
+  version "2.1.3"
+  resolved "https://registry.npmjs.org/@types/scroll-lock/-/scroll-lock-2.1.3.tgz"
+  integrity sha512-9Z9MIt9qF5DFEKlLI5MlNnk3SjjHEo0wjhzMEmZaJxCad981cs9Zerd8J1G2ELJVjXto1q/Cd+fNwmuscFHnpA==
+
 "@typescript-eslint/eslint-plugin@8.2.0":
   version "8.2.0"
   resolved "https://registry.npmjs.org/@typescript-eslint/eslint-plugin/-/eslint-plugin-8.2.0.tgz"

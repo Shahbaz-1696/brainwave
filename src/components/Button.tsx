@@ -6,7 +6,7 @@ interface ButtonProps {
   href: string;
   children: React.ReactNode;
   px: string;
-  white: string;
+  white: boolean;
   onClick: () => void;
 }
 
