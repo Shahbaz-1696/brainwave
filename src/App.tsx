@@ -4,6 +4,7 @@ import Header from "./components/Header.tsx";
 import Hero from "./components/Hero.tsx";
 import Collaboration from "./components/Collaboration.tsx";
 import Services from "./components/Services.tsx";
+import Pricing from "./components/Pricing.tsx";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Benefits />
         <Collaboration />
         <Services />
+        <Pricing />
       </div>
       <ButtonGradient />
     </>
