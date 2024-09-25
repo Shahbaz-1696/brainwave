@@ -5,9 +5,9 @@ interface ButtonProps {
   className: string;
   href: string;
   children: React.ReactNode;
-  px: string;
-  white: boolean;
-  onClick: () => void;
+  px?: string;
+  white?: boolean;
+  onClick?: () => void;
 }
 
 const Button = ({
