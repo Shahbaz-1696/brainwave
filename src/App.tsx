@@ -5,6 +5,8 @@ import Hero from "./components/Hero.tsx";
 import Collaboration from "./components/Collaboration.tsx";
 import Services from "./components/Services.tsx";
 import Pricing from "./components/Pricing.tsx";
+import Roadmap from "./components/Roadmap.tsx";
+import Footer from "./components/Footer.tsx";
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
         <Collaboration />
         <Services />
         <Pricing />
+        <Roadmap />
+        <Footer />
       </div>
       <ButtonGradient />
     </>
