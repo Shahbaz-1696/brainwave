@@ -3,7 +3,7 @@ import ButtonSvg from "../assets/svg/ButtonSvg";
 
 interface ButtonProps {
   className: string;
-  href: string;
+  href?: string;
   children: React.ReactNode;
   px?: string;
   white?: boolean;

@@ -4,7 +4,7 @@ import SectionSvg from "../assets/svg/SectionSvg";
 interface SectionProps {
   className: string;
   id: string;
-  crosses?: string;
+  crosses?: boolean;
   crossesOffset?: string;
   customPaddings?: string;
   children: React.ReactNode;

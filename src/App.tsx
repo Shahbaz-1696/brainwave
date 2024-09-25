@@ -2,6 +2,7 @@ import ButtonGradient from "./assets/svg/ButtonGradient.tsx";
 import Benefits from "./components/Benefits.tsx";
 import Header from "./components/Header.tsx";
 import Hero from "./components/Hero.tsx";
+import Collaboration from "./components/Collaboration.tsx";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <Header />
         <Hero />
         <Benefits />
+        <Collaboration />
       </div>
       <ButtonGradient />
     </>
